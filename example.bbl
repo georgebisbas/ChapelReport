@@ -1,0 +1,19 @@
+\begin{thebibliography}{}
+
+\bibitem[Chamberlain, 2013]{Chamberlain2013}
+Chamberlain, B.~L. (2013).
+\newblock {A Brief Overview of Chapel}.
+\newblock {\em Cray}, 1(January):0--20.
+
+\bibitem[Chamberlain, 2015]{Chamberlain2015}
+Chamberlain, B.~L. (2015).
+\newblock {Chapel}.
+\newblock {\em Programming models for parallel computing}, 2015:129--159.
+
+\bibitem[Dun and Taura, 2012]{Dun2012}
+Dun, N. and Taura, K. (2012).
+\newblock {An empirical performance study of chapel programming language}.
+\newblock {\em Proceedings of the 2012 IEEE 26th International Parallel and
+  Distributed Processing Symposium Workshops, IPDPSW 2012}, pages 497--506.
+
+\end{thebibliography}
